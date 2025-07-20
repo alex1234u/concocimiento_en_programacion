@@ -322,6 +322,22 @@ WannaCry fue un ransomware que en 2017 infectó cientos de miles de computadoras
 
 https://www.youtube.com/watch?v=gUp4WoAK7HM
 
+LockBit:
+
+LockBit es un grupo de ransomware-as-a-service que ha atacado desde 2019 a empresas y gobiernos en todo el mundo. Se especializa en cifrar datos y exigir rescates, operando como una mafia digital. En 2024, su infraestructura fue desmantelada por agencias internacionales.
+
+https://www.youtube.com/watch?v=rdXBVL9gSFQ
+
+que es un virus y sus tipos:
+
+https://www.youtube.com/watch?v=asIS6rg7HwI
+
+HACKEOS, cómo y POR QUÉ LO HACEN - Ciberseguridad:
+
+https://www.youtube.com/watch?v=NG0ydjoWjZQ
+
+
+
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⠶⠶⠶⠶⠶⠶⠶⢖⣦⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
