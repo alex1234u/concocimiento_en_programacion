@@ -135,7 +135,7 @@ Alternativas 2: https://www.youtube.com/shorts/d_9XJKFT0ow
 Alternativas 3: https://www.youtube.com/watch?v=kMN1el-OLf0
 
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
-¿Qué es Linux?
+¿Qué es gnu/Linux?
 https://www.youtube.com/watch?v=zY2cc8vncjc
 Historia de Windows
 https://www.youtube.com/watch?v=_6lYpM4O2xY
@@ -155,7 +155,7 @@ Ken Thompson Co-creador de Unix
 💻 Software Libre y Open Source
 Nombre Aporte
 Richard Stallman Fundador del movimiento GNU
-Linus Torvalds Creador de Linux y Git
+Linus Torvalds Creador del kernel Linux y Git
 Eric S. Raymond Autor de The Cathedral and the Bazaar
 
 🌐 Empresarios tecnológicos
@@ -321,9 +321,10 @@ sino de los que buscan libertad, conocimiento y justicia.
 Usá lo que aprendiste para crear, proteger, ayudar y abrir puertas.
 Porque en un mundo lleno de ruido, ser consciente ya es un acto de rebeldía.
 
-
-
 parte 8: Videos que te recomiendo 
+
+no tires tu pc, instalale gnu/linux: https://www.youtube.com/shorts/tHJ4cWK3uDY
+aprende a instalar linux mint en tu pc vieja: https://www.youtube.com/watch?v=K1X54WGcSaI
 
 la internet depende de personas que seguro nadie conoce y se ayudan entre ellos, porque debemos darle importancia
 caso Azer Koçulu.
@@ -335,7 +336,6 @@ https://www.youtube.com/watch?v=j3nNftstnx0
 caso wanna cry:
 
 WannaCry fue un ransomware que en 2017 infectó cientos de miles de computadoras en todo el mundo, aprovechando una vulnerabilidad de Windows filtrada por la NSA. Paralizó hospitales, empresas y gobiernos hasta que un joven investigador detuvo su propagación por accidente.
-
 https://www.youtube.com/watch?v=gUp4WoAK7HM
 
 LockBit:
@@ -376,9 +376,22 @@ que son los servidores p2p:
 
 https://www.youtube.com/watch?v=ABDRT7mXs70
 
+software libre vs codigo abierto: https://www.youtube.com/watch?v=22AKWRZIVaU
+
 aprende sobre ngrok para montar una pagina sencilla y gratis
 
 https://www.youtube.com/watch?v=iAgJ6eCgUIA
 
 https://www.youtube.com/watch?v=YyvDQTk4CEI&t=3s
+
+canales de creadores que te recomiendo de mi parte
+
+alva majo: https://www.youtube.com/@AlvaMajo(programador de videojuegos)
+todocode: https://www.youtube.com/@TodoCode(programacion en general)
+contandobits: https://www.youtube.com/@ContandoBits(ciberseguridad)
+BaityBait :https://www.youtube.com/@SrBaityBait(este man tiene varios canales)
+Karla's Project :https://www.youtube.com/@KarlasProject (chica apasionada su canal es dedicado a gnu/linux y tecnologia)
+LinuxChad: https://www.youtube.com/@LinuxChad/videos (canal dedicado a conocimientos informaticos tirando a open source)
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀
