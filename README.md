@@ -4,7 +4,7 @@ guia para aprender de cero el mundo de la programacion a un nivel intermedio
 
 🌐 GUÍA PARA ENTENDER EL MUNDO DE LA PROGRAMACIÓN (DE CERO A INTERMEDIO)
 Hola a todos 
-Comparto esta guía hecha por mi repulsivelie2973 para entender mejor el mundo de la programación, organizada por niveles.
+Comparto esta guía hecha por mi repulsivelie2953 para entender mejor el mundo de la programación, organizada por niveles.
 La idea es aprender desde lo más básico hasta temas intermedios, paso a paso.
 
 
@@ -391,6 +391,16 @@ https://www.youtube.com/watch?v=iAgJ6eCgUIA
 
 https://www.youtube.com/watch?v=YyvDQTk4CEI&t=3s
 
+propiedad digital en el software, es nuestro?, para esto tomare a stop killing games visto de varios puntos
+
+https://www.youtube.com/watch?v=gltcanahIaw
+
+https://www.youtube.com/watch?v=ZptQQgTEw5E
+
+https://www.youtube.com/watch?v=pjsl_hZwRZA&t=40s
+
+https://www.youtube.com/shorts/SSwCKMWxPx8
+
 🔥 PARTE 10: CREADORES QUE VALEN LA PENA
 
 canales de creadores que te recomiendo de mi parte
@@ -403,4 +413,4 @@ Karla's Project :https://www.youtube.com/@KarlasProject (chica apasionada su can
 LinuxChad: https://www.youtube.com/@LinuxChad/videos (canal dedicado a conocimientos informaticos tirando a open source)
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀
+
