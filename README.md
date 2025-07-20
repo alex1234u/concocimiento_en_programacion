@@ -336,6 +336,14 @@ HACKEOS, cómo y POR QUÉ LO HACEN - Ciberseguridad:
 
 https://www.youtube.com/watch?v=NG0ydjoWjZQ
 
+Qué es lo que REALMENTE aceptamos en los TÉRMINOS Y CONDICIONES | TKM Explica
+
+https://www.youtube.com/watch?v=x7z_vB67b6w
+
+http vs https: 
+
+https://www.facebook.com/61576763813387/videos/759551356599498
+
 
 
 
