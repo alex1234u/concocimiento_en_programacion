@@ -1,4 +1,4 @@
-# concocimiento_en_programacion
+# conocimiento_en_programacion
 guia para aprender de cero el mundo de la programacion a un nivel intermedio 
 
 
@@ -58,7 +58,7 @@ Básico: https://www.youtube.com/watch?v=y9QTX0VdsjU
 ¿Qué es una tarjeta gráfica (GPU)?
 -Básico: https://www.youtube.com/watch?v=lSTKcpz6Ioo
 ¿Qué es una placa base (motherboard)?
-(Aún puedes agregar enlaces aquí)
+-Basico: https://www.youtube.com/watch?v=l8avRfJa1PM
 ¿Qué son los periféricos?
 (Aún puedes agregar enlaces aquí)
 
