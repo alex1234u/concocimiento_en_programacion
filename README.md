@@ -18,6 +18,12 @@ Te recomiendo verlos en orden progresivo. A medida que avances, incluso los tema
 🚀 PARTE 4: SIGUIENTES PASOS Y MOTIVACIÓN
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 💡 PARTE 6: PERSONAS INFLUYENTES EN EL SOFTWARE
+🥷 PARTE 7: ANONIMATO
+🌐 PARTE 8: CONCEPTOS BÁSICOS DEL MUNDO WEB
+🫂 PARTE 9: VIDEOS QUE TE RECOMIENDO
+🔥 PARTE 10: CREADORES QUE VALEN LA PENA
+
+
 🛠️ BONUS: TIPS PARA CUIDAR TU PC COMO UN PANA
 
 🧠 PARTE 1: FUNDAMENTOS DE LA COMPUTACIÓN
@@ -183,7 +189,7 @@ Aaron Swartz – Activista del conocimiento libre
 
 
 ________________________________________
-🛡️ PARTE EXTRA: ANONIMATO Y USO RESPONSABLE DE LA TECNOLOGÍA
+🥷 PARTE 7: ANONIMATO Y USO RESPONSABLE DE LA TECNOLOGÍA
 La tecnología no es buena ni mala, todo depende de quién la use.
 No compartimos esta info para hacer daño, sino para informar, proteger y empoderar con conciencia.
 En esta sección vas a aprender sobre:
@@ -262,7 +268,8 @@ Ten en cuenta que aun personas que usaron vpn fueron detectadas, con esto quiero
 https://www.youtube.com/shorts/kLAPaL2_b58
 En esta sección no profundizaremos mucho, pero estas son otras palabras claves en el mundo de la web, no son las únicas y te recomiendo buscar mas afondo sobre cada una 
 
-🌐 CONCEPTOS BÁSICOS DEL MUNDO WEB
+
+🌐  PARTE 8: CONCEPTOS BÁSICOS DEL MUNDO WEB
 1. URL
 La dirección completa de una página web. Ej: https://youtube.com
 2. Dominio
@@ -321,7 +328,7 @@ sino de los que buscan libertad, conocimiento y justicia.
 Usá lo que aprendiste para crear, proteger, ayudar y abrir puertas.
 Porque en un mundo lleno de ruido, ser consciente ya es un acto de rebeldía.
 
-parte 8: Videos que te recomiendo 
+🫂 parte 9: Videos que te recomiendo 
 
 no tires tu pc, instalale gnu/linux: https://www.youtube.com/shorts/tHJ4cWK3uDY
 aprende a instalar linux mint en tu pc vieja: https://www.youtube.com/watch?v=K1X54WGcSaI
@@ -383,6 +390,8 @@ aprende sobre ngrok para montar una pagina sencilla y gratis
 https://www.youtube.com/watch?v=iAgJ6eCgUIA
 
 https://www.youtube.com/watch?v=YyvDQTk4CEI&t=3s
+
+🔥 PARTE 10: CREADORES QUE VALEN LA PENA
 
 canales de creadores que te recomiendo de mi parte
 
