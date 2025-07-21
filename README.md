@@ -339,7 +339,6 @@ la internet depende de personas que seguro nadie conoce y se ayudan entre ellos,
 caso Azer Koçulu.
 
 Azer Koçulu, un programador que mantenía varias librerías en npm, eliminó todas sus publicaciones —incluida left-pad— luego de un conflicto con la empresa Kik y la falta de reconocimiento. Esto rompió miles de proyectos en internet y expuso lo frágil del ecosistema JavaScript.
-
 https://www.youtube.com/watch?v=j3nNftstnx0
 
 caso wanna cry:
@@ -350,67 +349,48 @@ https://www.youtube.com/watch?v=gUp4WoAK7HM
 LockBit:
 
 LockBit es un grupo de ransomware-as-a-service que ha atacado desde 2019 a empresas y gobiernos en todo el mundo. Se especializa en cifrar datos y exigir rescates, operando como una mafia digital. En 2024, su infraestructura fue desmantelada por agencias internacionales.
-
 https://www.youtube.com/watch?v=rdXBVL9gSFQ
 
 que es un virus y sus tipos:
-
 https://www.youtube.com/watch?v=asIS6rg7HwI
 
 HACKEOS, cómo y POR QUÉ LO HACEN - Ciberseguridad:
-
 https://www.youtube.com/watch?v=NG0ydjoWjZQ
 
 Qué es lo que REALMENTE aceptamos en los TÉRMINOS Y CONDICIONES | TKM Explica
-
 https://www.youtube.com/watch?v=x7z_vB67b6w
 
 como funciona la ia segun alva majo:
-
 https://www.youtube.com/watch?v=uFjj9bJNQ6Y
 
 como funciona la ia, mas profundizado:
-
 https://www.youtube.com/watch?v=FdZ8LKiJBhQ&t=2s
 
 http vs https: 
-
 https://www.facebook.com/61576763813387/videos/759551356599498
 
 la pirateria consecuenencias vs beneficios visto desde el punto de varias personas:
-
 video 0:https://www.youtube.com/watch?v=gaKxyHHUMMg
-
 video 1:https://www.youtube.com/watch?v=7EGtl2-VM0g&t=537s
-
 video 2:https://www.youtube.com/watch?v=WM5u5HpiJ-g
-
 video 3:https://www.youtube.com/watch?v=EO82dJy_1qE
-
 video 4:https://www.youtube.com/watch?v=rF_8Z6fxW88
-
 video 5: https://www.youtube.com/watch?v=w4EuwicsWgM (emulacion)
 
 que son los servidores p2p:
-
 https://www.youtube.com/watch?v=ABDRT7mXs70
 
-software libre vs codigo abierto: https://www.youtube.com/watch?v=22AKWRZIVaU
+software libre vs codigo abierto: 
+https://www.youtube.com/watch?v=22AKWRZIVaU
 
 aprende sobre ngrok para montar una pagina sencilla y gratis
-
 https://www.youtube.com/watch?v=iAgJ6eCgUIA
-
 https://www.youtube.com/watch?v=YyvDQTk4CEI&t=3s
 
 propiedad digital en el software, es nuestro?, para esto tomare a stop killing games visto de varios puntos
-
 https://www.youtube.com/watch?v=gltcanahIaw
-
 https://www.youtube.com/watch?v=ZptQQgTEw5E
-
 https://www.youtube.com/watch?v=pjsl_hZwRZA&t=40s
-
 https://www.youtube.com/shorts/SSwCKMWxPx8
 
 🔥 PARTE 10: CREADORES QUE VALEN LA PENA 
