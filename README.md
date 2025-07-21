@@ -1,4 +1,4 @@
-# programacion basica a nivel medio
+# programacion basica hasta nivel medio *
 guia para aprender de cero el mundo de la programacion a un nivel intermedio 
 
 
