@@ -15,7 +15,7 @@ Te recomiendo verlos en orden progresivo. A medida que avances, incluso los tema
 🧠 PARTE 1: FUNDAMENTOS DE LA COMPUTACIÓN
 💻 PARTE 2: INTRODUCCIÓN A LA PROGRAMACIÓN
 🧩 PARTE 3: TIPOS DE LENGUAJES
-🚀 PARTE 4: PARTE 4: CURSOS / MOTIVACIÓN
+🚀 PARTE 4: PARTE 4: CURSOS / RETOS
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 💡 PARTE 6: PERSONAS INFLUYENTES EN EL SOFTWARE
 🥷 PARTE 7: ANONIMATO
@@ -139,8 +139,31 @@ https://www.youtube.com/watch?v=eOFG9dzV1dQ&list=PLdGFGV93dyjaw25N2uoAx7esc26u3v
 mas avanzado:
 
 curso c++: https://www.youtube.com/watch?v=RGSEnAzS4XY&list=PL5YuOOJ-FGGjjK8j50TkEcjCcZ8dRAiPy
+
+que es html: https://www.youtube.com/watch?v=EvKm8yhM7V8
+
+curso html: https://www.youtube.com/watch?v=MJkdaVFHrto
 mini curso comprimido javascript (web) : https://www.youtube.com/watch?v=QoC4RxNIs5M&t=5s
 curso php: https://www.youtube.com/watch?v=lLsyzBggW_o&list=PLH_tVOsiVGzmnl7ImSmhIw5qb9Sy5KJRE
+
+esta sección es retos sencillos solo para principiantes, todos arrancamos por allí.
+
+👊 RETOS:  
+
+para estos retos procura usar tu cabeza antes de buscar en internet la respuesta. son opcionales 
+pseint / raptor: haz tu primer algoritmo funcional bro
+
+scratch: reto 1: crea tu primer personaje, reto 2: dale movimiento 
+
+c++: reto 1: haz tu primer hola mundo, reto 2: piensa en un programa que te ayude a solucionar una necesidad que tengas y hazlo para eso programamos para solucionar problemas reales, reto 3: Haz que el usuario escriba dos números, y el programa diga cuál es mayor, o si son iguales.
+
+html: crea tu primer "hola mundo", crea tu propia pagina web en html (puede ser de lo que tu desees, busca algo importante que te gusta y hazlo)
+
+python : crea tu primer "hola mundo",crea una calculadora luego hazle una interfaz grafica con tkinter.
+
+javascript: crea tu primer alert con la frase "hola mundo", reto 2: Pide un número y dile al usuario si es par o impar, reto 3: Usa un bucle for o while para contar del 1 al 10, reto 4: Suma todos los números de un array
+
+php: reto 1: crea tu primer "hola mundo", reto 2: crea dos variables numero 1 y numero 2 luego crea una tercera llamada respuesta alli pondras la suma de las variables anteriores.
 
 Recursos gratuitos, alternativas a programas de pago:
 Alternativas 1: https://www.youtube.com/shorts/GPM6pBuzho4
@@ -424,6 +447,8 @@ ElRobotdePlaton: https://www.youtube.com/@ElRobotdePlaton (canal con contenido c
 BiologiaDesdeCero: https://www.youtube.com/@BiologiaDesdeCero (En este canal encontrarás todo lo que quieras saber sobre biología explicado de manera sencilla y entretenida.)
 JuguetesOlvidados: https://www.youtube.com/@JuguetesOlvidados (Hola ! Mi nombre es Edgar Pichardo y me dedico a Salvar juguetes de nuestra infancia rescatándolos de los tianguis o restaurándolos y dándoles una segunda oportunidad)
 elrobotdeLinneo: https://www.youtube.com/@elrobotdeLinneo (Mini documentales sobre la naturaleza. Algunos dicen que son graciosos.)
+
+
 
 
 
