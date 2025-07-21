@@ -15,7 +15,7 @@ Te recomiendo verlos en orden progresivo. A medida que avances, incluso los tema
 🧠 PARTE 1: FUNDAMENTOS DE LA COMPUTACIÓN
 💻 PARTE 2: INTRODUCCIÓN A LA PROGRAMACIÓN
 🧩 PARTE 3: TIPOS DE LENGUAJES
-🚀 PARTE 4: PARTE 4: CURSOS / RETOS
+🚀 PARTE 4: PARTE 4: CURSOS / RETOS Y ALTERNATIVAS A PROGRAMAS DE PAGO Y PAGINAS WEB COMUNES
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 💡 PARTE 6: PERSONAS INFLUYENTES EN EL SOFTWARE
 🥷 PARTE 7: ANONIMATO
@@ -165,10 +165,21 @@ javascript: crea tu primer alert con la frase "hola mundo", reto 2: Pide un núm
 
 php: reto 1: crea tu primer "hola mundo", reto 2: crea dos variables numero 1 y numero 2 luego crea una tercera llamada respuesta alli pondras la suma de las variables anteriores.
 
+te recomiendo este subreddit "r/dailyprogrammer" para obrtener mas retos de programacion https://www.reddit.com/r/dailyprogrammer/
+
+ALTERNATIVAS A PROGRAMAS Y PAGINAS WEB COMUNES QUE VALEN MUCHO LA PENA
+
+
 Recursos gratuitos, alternativas a programas de pago:
 Alternativas 1: https://www.youtube.com/shorts/GPM6pBuzho4
 Alternativas 2: https://www.youtube.com/shorts/d_9XJKFT0ow
 Alternativas 3: https://www.youtube.com/watch?v=kMN1el-OLf0
+
+alternativas a sitios web menos invasivas y controladas 
+
+1: odysee alternativa a youtube: https://odysee.com/  (odysee es una alternativa a youtube pero sin anuncios, no es tan grande pero merece darle una oportunidad)
+2: proton mail es una alternativa a gmail y otros correso electronicos, mas segura.
+3: mastodon alternativa a facebook menos controlada sin rastreo excesivo como fb
 
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 ¿Qué es gnu/Linux?
