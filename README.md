@@ -365,6 +365,14 @@ Qué es lo que REALMENTE aceptamos en los TÉRMINOS Y CONDICIONES | TKM Explica
 
 https://www.youtube.com/watch?v=x7z_vB67b6w
 
+como funciona la ia segun alva majo:
+
+https://www.youtube.com/watch?v=uFjj9bJNQ6Y
+
+como funciona la ia, mas profundizado:
+
+https://www.youtube.com/watch?v=FdZ8LKiJBhQ&t=2s
+
 http vs https: 
 
 https://www.facebook.com/61576763813387/videos/759551356599498
