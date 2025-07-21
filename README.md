@@ -15,7 +15,7 @@ Te recomiendo verlos en orden progresivo. A medida que avances, incluso los tema
 🧠 PARTE 1: FUNDAMENTOS DE LA COMPUTACIÓN
 💻 PARTE 2: INTRODUCCIÓN A LA PROGRAMACIÓN
 🧩 PARTE 3: TIPOS DE LENGUAJES
-🚀 PARTE 4: SIGUIENTES PASOS Y MOTIVACIÓN
+🚀 PARTE 4: PARTE 4: CURSOS / MOTIVACIÓN
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 💡 PARTE 6: PERSONAS INFLUYENTES EN EL SOFTWARE
 🥷 PARTE 7: ANONIMATO
@@ -112,7 +112,7 @@ C# – ideal para videojuegos (Unity) y apps Windows
 Rust 🦀 – rápido y seguro, útil en sistemas complejos
 JavaScript – lenguaje del navegador
 PHP – usado para sitios web dinámicos como WordPress
-✅ PARTE 4: SIGUIENTES PASOS / MOTIVACIÓN
+🚀 PARTE 4: PARTE 4: CURSOS / MOTIVACIÓN
 ¿Cómo empezar a programar?
 Usa herramientas visuales como PSeInt o Raptor
 Curso PSeInt: https://www.youtube.com/watch?v=FvibfpSVFBw&list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798
@@ -120,7 +120,6 @@ Curso Raptor 1: https://www.youtube.com/watch?v=wwvkE_zNgkM&list=PLibVrn7PkrRg1c
 Curso Raptor 2: https://www.youtube.com/watch?v=AEiRa5xZaZw&list=PLYLyTc7OzOijGA_4M-lxTBg5ucmp3Qb1Y
 
 intermedio:
-
 
 scratch: que es scratch? (herramienta para hacer juegos didacticos y aprender a programar)
 
@@ -134,6 +133,7 @@ mas avanzado:
 
 curso c++: https://www.youtube.com/watch?v=RGSEnAzS4XY&list=PL5YuOOJ-FGGjjK8j50TkEcjCcZ8dRAiPy
 mini curso comprimido javascript (web) : https://www.youtube.com/watch?v=QoC4RxNIs5M&t=5s
+curso php: https://www.youtube.com/watch?v=lLsyzBggW_o&list=PLH_tVOsiVGzmnl7ImSmhIw5qb9Sy5KJRE
 
 Recursos gratuitos, alternativas a programas de pago:
 Alternativas 1: https://www.youtube.com/shorts/GPM6pBuzho4
@@ -429,6 +429,7 @@ Lahiperactina: https://www.youtube.com/@Lahiperactina (es un canal de divulgaci�
 ElRobotdePlaton: https://www.youtube.com/@ElRobotdePlaton (canal con contenido cientifico)
 BiologiaDesdeCero: https://www.youtube.com/@BiologiaDesdeCero (En este canal encontrarás todo lo que quieras saber sobre biología explicado de manera sencilla y entretenida.)
 JuguetesOlvidados: https://www.youtube.com/@JuguetesOlvidados (Hola ! Mi nombre es Edgar Pichardo y me dedico a Salvar juguetes de nuestra infancia rescatándolos de los tianguis o restaurándolos y dándoles una segunda oportunidad)
+elrobotdeLinneo: https://www.youtube.com/@elrobotdeLinneo (Mini documentales sobre la naturaleza. Algunos dicen que son graciosos.)
 
 
 
