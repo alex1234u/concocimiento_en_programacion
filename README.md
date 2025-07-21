@@ -96,6 +96,10 @@ Básico: https://www.youtube.com/watch?v=y9QTX0VdsjU
 -Básico 2: https://www.youtube.com/watch?v=swpAfyZFt-8
 -Básico 3: https://www.youtube.com/shorts/YyC5GlwOqAE
 
+¿Qué es el codigo espagueti? (el codigo espagueti es desorden en el codigo,esto es solamente estetico. a muchos no les importa mientras el codigo sea funcional)
+
+-Basico: https://www.youtube.com/watch?v=ki9jdml37T0
+
 🧩 PARTE 3: TIPOS DE LENGUAJES DE PROGRAMACIÓN
 Lenguajes compilados vs interpretados
 -Básico: https://www.youtube.com/watch?v=zZBZsgfGtLM
@@ -112,8 +116,13 @@ C# – ideal para videojuegos (Unity) y apps Windows
 Rust 🦀 – rápido y seguro, útil en sistemas complejos
 JavaScript – lenguaje del navegador
 PHP – usado para sitios web dinámicos como WordPress
+
 🚀 PARTE 4: PARTE 4: CURSOS / MOTIVACIÓN
-¿Cómo empezar a programar?
+¿Cómo empezar a programar? 
+
+****Bro, si querés aprender full programación, no arranques por lo más difícil porque te vas a estrellar. 
+Empezá desde abajo, sin afán. Con humildad y constancia vas subiendo el nivel, y cuando menos pensés, ya estás volando código.****
+
 Usa herramientas visuales como PSeInt o Raptor
 Curso PSeInt: https://www.youtube.com/watch?v=FvibfpSVFBw&list=PLAzlSdU-KYwXllXcUCW-BylQZemcDV798
 Curso Raptor 1: https://www.youtube.com/watch?v=wwvkE_zNgkM&list=PLibVrn7PkrRg1cZeFhGvk2TdYlZlQahXU
@@ -122,11 +131,9 @@ Curso Raptor 2: https://www.youtube.com/watch?v=AEiRa5xZaZw&list=PLYLyTc7OzOijGA
 intermedio:
 
 scratch: que es scratch? (herramienta para hacer juegos didacticos y aprender a programar)
-
 https://www.youtube.com/watch?v=Z_uHtpR9Ims
 
 video curso scratch:
-
 https://www.youtube.com/watch?v=eOFG9dzV1dQ&list=PLdGFGV93dyjaw25N2uoAx7esc26u3vtUS
 
 mas avanzado:
@@ -265,10 +272,11 @@ Ten en cuenta que aun personas que usaron vpn fueron detectadas, con esto quiero
 https://www.youtube.com/shorts/kLAPaL2_b58
 En esta sección no profundizaremos mucho, pero estas son otras palabras claves en el mundo de la web, no son las únicas y te recomiendo buscar mas afondo sobre cada una 
 
-
 que son las cookies?
-
 https://www.youtube.com/watch?v=E9uUg7SWI8s
+
+mejora el anonimato:
+https://www.youtube.com/watch?v=OdBgGIYzy_k (Te recomiendo investigar más a fondo sobre las criptomonedas, ya que en este video tocan el tema. Personalmente, todavía no entiendo del todo sus beneficios ni sus riesgos, así que es mejor que busques información de diferentes fuentes. Hay personas que han tenido muy buenas experiencias, pero también otras que no tanto.)
 
 
 🌐  PARTE 8: CONCEPTOS BÁSICOS DEL MUNDO WEB  (aquí no profundizaremos mucho pero estas palabras son clave, si puedes investigar mas a fondo sobre cada una seria genial)
@@ -342,12 +350,10 @@ Azer Koçulu, un programador que mantenía varias librerías en npm, eliminó to
 https://www.youtube.com/watch?v=j3nNftstnx0
 
 caso wanna cry:
-
 WannaCry fue un ransomware que en 2017 infectó cientos de miles de computadoras en todo el mundo, aprovechando una vulnerabilidad de Windows filtrada por la NSA. Paralizó hospitales, empresas y gobiernos hasta que un joven investigador detuvo su propagación por accidente.
 https://www.youtube.com/watch?v=gUp4WoAK7HM
 
 LockBit:
-
 LockBit es un grupo de ransomware-as-a-service que ha atacado desde 2019 a empresas y gobiernos en todo el mundo. Se especializa en cifrar datos y exigir rescates, operando como una mafia digital. En 2024, su infraestructura fue desmantelada por agencias internacionales.
 https://www.youtube.com/watch?v=rdXBVL9gSFQ
 
