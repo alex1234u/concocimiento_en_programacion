@@ -184,7 +184,7 @@ Ilya Sutskever Cofundador de OpenAI
 Guido van Rossum – Creador de Python
 Brendan Eich – Creador de JavaScript
 Mitchell Baker – Líder de Mozilla
-Aaron Swartz – Activista del conocimiento libre
+Aaron Swartz – Activista del conocimiento libre cofundador de reddit y participante en la creacion de rss
 🎬 Documental: https://www.youtube.com/watch?v=YL5k3SvywOE&t=590s
 
 
@@ -262,14 +262,16 @@ Videos que lo explican : https://www.youtube.com/watch?v=L4T_bl4TEps (muy bueno)
 https://www.youtube.com/watch?v=8EQKaVCuGaY
 Ten en cuenta que aun personas que usaron vpn fueron detectadas, con esto quiero decirte que el anonimato se vuelve mas fuerte pero ningún sistema es implacable y mas si es una vpn poco confiable, te recomiendo también que nunca utilices vpn gratuitas
 
-
-
-
 https://www.youtube.com/shorts/kLAPaL2_b58
 En esta sección no profundizaremos mucho, pero estas son otras palabras claves en el mundo de la web, no son las únicas y te recomiendo buscar mas afondo sobre cada una 
 
 
-🌐  PARTE 8: CONCEPTOS BÁSICOS DEL MUNDO WEB
+que son las cookies?
+
+https://www.youtube.com/watch?v=E9uUg7SWI8s
+
+
+🌐  PARTE 8: CONCEPTOS BÁSICOS DEL MUNDO WEB  (aquí no profundizaremos mucho pero estas palabras son clave, si puedes investigar mas a fondo sobre cada una seria genial)
 1. URL
 La dirección completa de una página web. Ej: https://youtube.com
 2. Dominio
@@ -310,7 +312,7 @@ Servicio que te da un espacio en un servidor para subir tu página web.
 19. SEO
 Técnicas para que tu sitio aparezca mejor posicionado en Google.
 20. Phishing
-Técnica de estafa donde te hacen creer que estás en una página legítima para robar tus datos.
+Técnica de estafa donde te hacen creer que estás en una página legítima con señuelos para robar tus datos.
 ________________________________________
 🚀 Extras útiles si vas más allá:
 •	CDN (Red de distribución de contenido): acelera tu sitio entregando copias desde servidores cercanos.
@@ -379,6 +381,8 @@ video 3:https://www.youtube.com/watch?v=EO82dJy_1qE
 
 video 4:https://www.youtube.com/watch?v=rF_8Z6fxW88
 
+video 5: https://www.youtube.com/watch?v=w4EuwicsWgM (emulacion)
+
 que son los servidores p2p:
 
 https://www.youtube.com/watch?v=ABDRT7mXs70
@@ -401,16 +405,30 @@ https://www.youtube.com/watch?v=pjsl_hZwRZA&t=40s
 
 https://www.youtube.com/shorts/SSwCKMWxPx8
 
-🔥 PARTE 10: CREADORES QUE VALEN LA PENA
+🔥 PARTE 10: CREADORES QUE VALEN LA PENA 
 
 canales de creadores que te recomiendo de mi parte
 
+contenido acerca de programacion:
 alva majo: https://www.youtube.com/@AlvaMajo(programador de videojuegos)
 todocode: https://www.youtube.com/@TodoCode(programacion en general)
 contandobits: https://www.youtube.com/@ContandoBits(ciberseguridad)
-BaityBait :https://www.youtube.com/@SrBaityBait(este man tiene varios canales)
 Karla's Project :https://www.youtube.com/@KarlasProject (chica apasionada su canal es dedicado a gnu/linux y tecnologia)
 LinuxChad: https://www.youtube.com/@LinuxChad/videos (canal dedicado a conocimientos informaticos tirando a open source)
+hdeleon.net: https://www.youtube.com/@hdeleonnet (Cursos, videos y podcast relacionados a la programación, tecnología y computación, todo con un toque de humor, y llegando a tener un toque personalizado de enseñanza y entretenimiento.)
+
+contenido relacionado con videojuegos y tecnologia:
+BaityBait :https://www.youtube.com/@SrBaityBait(este man tiene varios canales)
+thalas : https://www.youtube.com/@soythalas/shorts (canal acerca de noticias del mundo de los videojuegos)
+AlexWhite : https://www.youtube.com/@soy_alexwhite (contenido relacionado con el mundo de los videojuegos/ noticias)
+Retro_hoy:https://www.youtube.com/@Retro_hoy (canal en crecimiento acerca de videojuegos retros)
+TuberViejuner: https://www.youtube.com/@TuberViejuner(canal relacionado a videojuegos y historia de la tecnologia)
+
+contenido relacionado con otros temas:
+Lahiperactina: https://www.youtube.com/@Lahiperactina (es un canal de divulgación científica en el que se explican temas sobre biomedicina y cuerpo humano)
+ElRobotdePlaton: https://www.youtube.com/@ElRobotdePlaton (canal con contenido cientifico)
+BiologiaDesdeCero: https://www.youtube.com/@BiologiaDesdeCero (En este canal encontrarás todo lo que quieras saber sobre biología explicado de manera sencilla y entretenida.)
+JuguetesOlvidados: https://www.youtube.com/@JuguetesOlvidados (Hola ! Mi nombre es Edgar Pichardo y me dedico a Salvar juguetes de nuestra infancia rescatándolos de los tianguis o restaurándolos y dándoles una segunda oportunidad)
 
 
 
