@@ -388,6 +388,11 @@ caso Azer Koçulu.
 Azer Koçulu, un programador que mantenía varias librerías en npm, eliminó todas sus publicaciones —incluida left-pad— luego de un conflicto con la empresa Kik y la falta de reconocimiento. Esto rompió miles de proyectos en internet y expuso lo frágil del ecosistema JavaScript.
 https://www.youtube.com/watch?v=j3nNftstnx0
 
+Como ocultar mensajes en imágenes (ESTEGANOGRAFÍA) 🔐
+https://www.youtube.com/watch?v=SzU8ohRk5sg
+https://www.youtube.com/watch?v=MwIDSCIQOoY
+https://www.youtube.com/watch?v=55WBEU6izUE
+
 caso wanna cry:
 WannaCry fue un ransomware que en 2017 infectó cientos de miles de computadoras en todo el mundo, aprovechando una vulnerabilidad de Windows filtrada por la NSA. Paralizó hospitales, empresas y gobiernos hasta que un joven investigador detuvo su propagación por accidente.
 https://www.youtube.com/watch?v=gUp4WoAK7HM
