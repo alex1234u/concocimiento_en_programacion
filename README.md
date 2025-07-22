@@ -140,6 +140,8 @@ mas avanzado:
 
 curso c++: https://www.youtube.com/watch?v=RGSEnAzS4XY&list=PL5YuOOJ-FGGjjK8j50TkEcjCcZ8dRAiPy
 
+curso python: https://www.youtube.com/watch?v=DAdRO6ByBoU&t=409s
+
 que es html: https://www.youtube.com/watch?v=EvKm8yhM7V8
 
 curso html: https://www.youtube.com/watch?v=MJkdaVFHrto
