@@ -8,14 +8,16 @@ Comparto esta guía hecha por mi repulsivelie2953 para entender mejor el mundo d
 La idea es aprender desde lo más básico hasta temas intermedios, paso a paso.
 
 
+(ojo el objetivo de este post no es vender, no se esta asociado con ningun creador de contenido, solo usos sus videos para explicar ciertos temas )
 
 🧩 ¿Cómo funciona?
 Cada tema tiene videos en distintos niveles: básico, intermedio y avanzado.
 Te recomiendo verlos en orden progresivo. A medida que avances, incluso los temas difíciles empezarán a tener sentido.
+
 🧠 PARTE 1: FUNDAMENTOS DE LA COMPUTACIÓN
 💻 PARTE 2: INTRODUCCIÓN A LA PROGRAMACIÓN
 🧩 PARTE 3: TIPOS DE LENGUAJES
-🚀 PARTE 4: PARTE 4: CURSOS / RETOS Y ALTERNATIVAS A PROGRAMAS DE PAGO Y PAGINAS WEB COMUNES
+🚀 PARTE 4: CURSOS / RETOS Y ALTERNATIVAS A PROGRAMAS DE PAGO Y PAGINAS WEB COMUNES
 🧬 PARTE 5: PROFUNDIZACIÓN EN SISTEMAS OPERATIVOS
 💡 PARTE 6: PERSONAS INFLUYENTES EN EL SOFTWARE
 🥷 PARTE 7: ANONIMATO
@@ -388,7 +390,7 @@ caso Azer Koçulu.
 Azer Koçulu, un programador que mantenía varias librerías en npm, eliminó todas sus publicaciones —incluida left-pad— luego de un conflicto con la empresa Kik y la falta de reconocimiento. Esto rompió miles de proyectos en internet y expuso lo frágil del ecosistema JavaScript.
 https://www.youtube.com/watch?v=j3nNftstnx0
 
-Como ocultar mensajes en imágenes (ESTEGANOGRAFÍA) 🔐
+Como ocultar mensajes en imágenes (ESTEGANOGRAFÍA) 🔐  
 https://www.youtube.com/watch?v=SzU8ohRk5sg
 https://www.youtube.com/watch?v=MwIDSCIQOoY
 https://www.youtube.com/watch?v=55WBEU6izUE
