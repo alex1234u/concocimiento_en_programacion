@@ -379,6 +379,9 @@ Porque en un mundo lleno de ruido, ser consciente ya es un acto de rebeldía.
 no tires tu pc, instalale gnu/linux: https://www.youtube.com/shorts/tHJ4cWK3uDY
 aprende a instalar linux mint en tu pc vieja: https://www.youtube.com/watch?v=K1X54WGcSaI
 
+QUÉ es el SOFTWARE LIBRE [y por qué DEBERÍAS UTILIZARLO]
+https://www.youtube.com/watch?v=yO2HWfoJTLs
+
 la internet depende de personas que seguro nadie conoce y se ayudan entre ellos, porque debemos darle importancia
 caso Azer Koçulu.
 
