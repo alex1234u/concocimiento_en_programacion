@@ -404,6 +404,11 @@ https://www.youtube.com/watch?v=rdXBVL9gSFQ
 que es un virus y sus tipos:
 https://www.youtube.com/watch?v=asIS6rg7HwI
 
+quienes son anonymous:
+https://www.youtube.com/watch?v=3NXAQ5vhG30&t=88s
+https://www.youtube.com/shorts/oxALZCwP_3o
+https://www.youtube.com/watch?v=lKYK-LLExW0&t=204s
+
 HACKEOS, cómo y POR QUÉ LO HACEN - Ciberseguridad:
 https://www.youtube.com/watch?v=NG0ydjoWjZQ
 
