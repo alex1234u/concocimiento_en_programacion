@@ -213,7 +213,7 @@ Bill Gates Fundador de Microsoft
 Steve Jobs Cofundador de Apple
 Larry Page & Sergey Brin Fundadores de Google
 Mark Zuckerberg Fundador de Facebook
-Elon Musk Fundador de X.com / PayPal, Neuralink
+Elon Musk dueño actual de X.com / SpaceX, Neuralink
 Jeff Bezos Fundador de Amazon
 
 🤖 Inteligencia Artificial
