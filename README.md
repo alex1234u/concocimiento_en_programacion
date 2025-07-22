@@ -68,7 +68,7 @@ Básico: https://www.youtube.com/watch?v=y9QTX0VdsjU
 ¿Qué es una placa base (motherboard)?
 -Basico: https://www.youtube.com/watch?v=l8avRfJa1PM
 ¿Qué son los periféricos?
-(Aún puedes agregar enlaces aquí)
+-Básico: https://www.youtube.com/watch?v=9r88MHfDrho
 
 💻 PARTE 2: INTRODUCCIÓN A LA PROGRAMACIÓN
 ¿Qué es un transistor? (opcional)
